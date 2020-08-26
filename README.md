@@ -2,7 +2,7 @@
 
 Aplicación desarrollada en el curso básico de Flutter de la plataforma Platzi.
 
-<img src="assets/readme/ScreenShot.PNG"  title="Vista del Home">
+<img src="assets/readme/ScreenShot.png"  title="Vistas de la aplicación">
 
 ## Instalación de Flutter en Windows y Ejecución del proyecto con VSCode
 
